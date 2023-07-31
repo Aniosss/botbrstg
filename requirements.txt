@@ -1,0 +1,10 @@
+pandas~=2.0.3
+requests~=2.31.0
+numpy~=1.25.1
+matplotlib~=3.7.2
+beautifulsoup4~=4.12.2
+cryptography~=41.0.2
+prettytable~=3.8.0
+aiogram~=2.25.1
+python-dotenv~=1.0.0
+redis~=4.6.0
